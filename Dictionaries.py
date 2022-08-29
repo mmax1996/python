@@ -15,3 +15,5 @@ for i in users:
 # Проверка списка
 print(sum(a))
 
+# Проверка списка
+print(sum(a))
